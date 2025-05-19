@@ -10,3 +10,9 @@ step2:- initialize a git repo
 ~~~
 $ git init
 ~~~
+git branch switch
+~~~
+git branch switch <branch name>/
+</br>
+git checkout <branch name>
+~~~
